@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm kummari dinesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"alt=widt"400"src="https://media.licdn.com/dms/image/v2/D4D16AQEo2FsHkQKlVw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738947374519?e=1745452800&v=beta&t=bJDwLyV1M5nS5doyLv73-TO6rXqQYpmR49opRLF8axk"
+<img align="right"src="https://media.licdn.com/dms/image/v2/D4D16AQEo2FsHkQKlVw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738947374519?e=1745452800&v=beta&t=bJDwLyV1M5nS5doyLv73-TO6rXqQYpmR49opRLF8axk"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh480&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh480" /> </p>
 
 - 🔭 I’m currently working on **students dashboard**
